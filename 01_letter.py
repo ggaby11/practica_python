@@ -1,0 +1,8 @@
+print("****************************************************************************************")
+print("07/02/23")
+print("I'm feeling excited")
+print("In a month, I have the fundaments of programing In python")
+print("It's easier programming in py? Could u please do a web side for something fun? lol...")
+print("u can do it sweetie(o ^ v ^ o)")
+print("")
+print("****************************************************************************************")
