@@ -1,6 +1,6 @@
 import random
 question = str(input("Question: "))
-random_number = random.randint(1,9)
+random_number = random.randint(1,9)#(desde, hasta)
 
 if random_number >= 9:
   rta = ("Yes - definitely.")

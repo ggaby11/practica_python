@@ -6,3 +6,6 @@ if num > 0.5:
   print("Heads")
 else:
   print("Tails")
+
+'''moneda = ["Cara", "Sello"]
+print(random.choice(moneda))'''
