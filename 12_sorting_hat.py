@@ -40,8 +40,6 @@ elif question_three == 2:
 else: 
   slytherin += 4
 
-lista = [gryffindor, ravenclaw, hufflepuff, slytherin]
-
 if gryffindor > ravenclaw and ravenclaw > hufflepuff and hufflepuff > slytherin:
   print(f"gryffindor ({gryffindor})")
 elif ravenclaw > hufflepuff and hufflepuff > slytherin:
