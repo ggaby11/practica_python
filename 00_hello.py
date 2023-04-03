@@ -20,6 +20,6 @@ diccionario = {'saludo' : 'hola', 'despedida' : ['adios','hasta luego', 'chao'],
 tupla = ('1', '2', '3', '4', '5', '6', '7', '8', '9') #datos ordenados que no cambian
 set = {1.5, 2, '12', 2.5, "holis"} #datos no ordenados
 
-print(f"texto: {type(texto)} \nnumero_entero: {type(numero_entero)} \nnumero_decimal: {type(numero_decimal)} \n")
-print(f"boolean: {type(boolean)} \ndiccionario: {type(diccionario)} \n")
-print(f"lista: {type(lista)} \ntupla: {type(tupla)} \nset: {type(set)} \n")
+print(f"texto: {type(texto)} {texto}\nnumero_entero: {type(numero_entero)} {numero_entero}\nnumero_decimal: {type(numero_decimal)} {numero_decimal}\n")
+print(f"boolean: {type(boolean)} {boolean}\ndiccionario: {type(diccionario)} {diccionario}\n")
+print(f"lista: {type(lista)} {lista}\ntupla: {type(tupla)} {tupla}\nset: {type(set)} {set}\n")
